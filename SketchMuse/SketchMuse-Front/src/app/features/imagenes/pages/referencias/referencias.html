@@ -1,0 +1,7 @@
+<h1>Imágenes del álbum</h1>
+
+@if (imagenes.length === 0) {
+<p>Cargando imágenes...</p>
+}
+
+<app-lista-imagenes [imagenes]="imagenes"></app-lista-imagenes>

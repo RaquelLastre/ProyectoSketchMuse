@@ -1,0 +1,22 @@
+.album{
+    overflow: hidden;
+    width: 200px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    padding: 0;
+}
+
+.imagenes img{
+    height: 100px;
+}
+
+h2, p{
+    padding: 0 10px;
+}
+
+h2{
+    margin-bottom: 5px;
+}
+p{
+    margin-top: 0;
+}

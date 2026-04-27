@@ -1,0 +1,8 @@
+<div class="album" (click)="verDetalle()">
+    <div class="imagenes">
+        @for (img of album.previewImagenes; track img) {<img [src]="img" />}
+    </div>
+
+    <h2>{{ album.titulo }}</h2>
+    <p>{{ album.usedAt | date:'dd MMM yyyy' }}</p>
+</div>

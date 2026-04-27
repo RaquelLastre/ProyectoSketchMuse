@@ -1,0 +1,21 @@
+div{
+  display: flex;
+  align-items: center;
+}
+
+.imagen {
+  max-width: 70%;
+  max-height: 80vh;
+}
+
+button {
+  font-size: 30px;
+  cursor: pointer;
+  padding: 0 0 2px 0;
+  flex: 1;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

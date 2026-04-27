@@ -1,0 +1,10 @@
+<div>@if (imagenes.length > 0) {
+
+  <button (click)="anterior()" [disabled]="indiceActual === 0">🡨</button>
+
+  <img [src]="imagenes[indiceActual].url" class="imagen" loading="lazy" />
+
+  <button (click)="siguiente()" [disabled]="indiceActual === imagenes.length - 1">🡪</button>
+
+  }
+</div>

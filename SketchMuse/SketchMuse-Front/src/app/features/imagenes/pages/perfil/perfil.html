@@ -1,0 +1,11 @@
+<h1>Mis álbumes</h1>
+
+@if (albumes.length === 0) {
+<p>No tienes álbumes todavía</p>
+}
+
+<div class="albumes">
+    @for (album of albumes; track album.id) {
+    <app-album [album]="album"></app-album>
+    }
+</div>

@@ -1,0 +1,234 @@
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.csproj.AssemblyReference.cache
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.AssemblyInfoInputs.cache
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.AssemblyInfo.cs
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.csproj.CoreCompileInputs.cache
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.sourcelink.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\appsettings.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.staticwebassets.endpoints.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.exe
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.deps.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.runtimeconfig.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.pdb
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\scopedcss\bundle\SketchMuse.styles.css
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.csproj.Up2Date
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\refint\SketchMuse.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.pdb
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.genruntimeconfig.cache
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\ref\SketchMuse.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.csproj.AssemblyReference.cache
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.AssemblyInfoInputs.cache
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.AssemblyInfo.cs
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.csproj.CoreCompileInputs.cache
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.sourcelink.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\refint\SketchMuse.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.pdb
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Raquel L A\Documents\GitHub\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\appsettings.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.staticwebassets.endpoints.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.exe
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.deps.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.runtimeconfig.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\SketchMuse.pdb
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\scopedcss\bundle\SketchMuse.styles.css
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.csproj.Up2Date
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\SketchMuse.genruntimeconfig.cache
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\ref\SketchMuse.dll
+C:\Users\Mari PC\Desktop\RaquelJuegoBorrar\Proyecto-Final\SketchMuse\SketchMuse\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
