@@ -1,1 +1,33 @@
-<app-buscador (buscar)="buscar($event)"></app-buscador>
+<app-buscador (buscar)="buscar($event)"></app-buscador><div class="configuracion-busqueda">
+  <div class="config-group">
+    <label>Tiempo por foto (s):</label>
+    <div class="button-group">
+      <button (click)="tiempoPorFoto = 10" [class.active]="tiempoPorFoto === 10">10s</button>
+      <button (click)="tiempoPorFoto = 30" [class.active]="tiempoPorFoto === 30">30s</button>
+      <button (click)="tiempoPorFoto = 60" [class.active]="tiempoPorFoto === 60">60s</button>
+    </div>
+    <input 
+      id="tiempoPorFoto"
+      type="number" 
+      [(ngModel)]="tiempoPorFoto" 
+      placeholder="Personalizado"
+      min="1"
+    />
+  </div>
+
+  <div class="config-group">
+    <label>Número de fotos:</label>
+    <div class="button-group">
+      <button (click)="numFotos = 10" [class.active]="numFotos === 10">10</button>
+      <button (click)="numFotos = 20" [class.active]="numFotos === 20">20</button>
+      <button (click)="numFotos = 30" [class.active]="numFotos === 30">30</button>
+    </div>
+    <input 
+      id="numFotos"
+      type="number" 
+      [(ngModel)]="numFotos" 
+      placeholder="Personalizado"
+      min="1"
+    />
+  </div>
+</div>

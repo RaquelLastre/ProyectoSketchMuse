@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Application\\Interfaces",
-    "\\Application\\Services",
-    "\\Domain\\Entities",
     "\\Infrastructure",
-    "\\Infrastructure\\Data"
+    "\\Infrastructure\\Data",
+    "\\Properties"
   ],
+  "SelectedNode": "\\SketchMuse.csproj",
   "PreviewInSolutionExplorer": false
 }

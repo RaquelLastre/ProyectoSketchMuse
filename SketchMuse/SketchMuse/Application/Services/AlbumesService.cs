@@ -34,7 +34,7 @@ namespace SketchMuse.Application.Interfaces
             await _context.SaveChangesAsync();
         }
 
-        public async Task AgregarAAlbum(int albumId, int usuarioId)
+        public async Task AgregarAAlbum(int albumId, int usuarioId, int count = 10)
         {
             var album = await _context.Albumes
                 .Include(a => a.Imagenes)
@@ -42,7 +42,7 @@ namespace SketchMuse.Application.Interfaces
 
             if (album == null) throw new Exception("Álbum no encontrado.");
 
-            var imagenesNuevas = await _imagenesService.PedirImagenes(album.Titulo, 10);
+            var imagenesNuevas = await _imagenesService.PedirImagenes(album.Titulo, count);
 
             // HashSet de URLs existentes para filtrar duplicados
             var urlsExistentes = album.Imagenes.Select(i => i.Url).ToHashSet();

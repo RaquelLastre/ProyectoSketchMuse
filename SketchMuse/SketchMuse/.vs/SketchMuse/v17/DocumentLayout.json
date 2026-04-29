@@ -1,38 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\",
+  "WorkspaceRootPath": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Infrastructure\\Data\\MiDbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Data\\MiDbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Application\\Services\\JwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\JwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Domain\\Entities\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Application\\Services\\UsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Infrastructure\\Data\\MiDbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Data\\MiDbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Application\\Services\\JwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\JwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Domain\\Entities\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Entities\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Application\\Services\\UsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\UsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Application\\Interfaces\\IUsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Application\\Interfaces\\IUsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Interfaces\\IUsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,28 +46,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Application\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Application\\Services\\JwtService.cs",
-              "RelativeToolTip": "Application\\Services\\JwtService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T15:56:26.855Z",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T14:39:44.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:35:22.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T15:31:04.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T15:34:33.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Application\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Application\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Application\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:41:34.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Application\\Interfaces\\IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Application\\Interfaces\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IUsuarioService.cs",
-              "ToolTip": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Application\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Application\\Interfaces\\IUsuarioService.cs",
               "RelativeToolTip": "Application\\Interfaces\\IUsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,74 +126,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Application\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Application\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "Application\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAUwC4AAAANAAAAAAAAAA==",
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Application\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Application\\Services\\JwtService.cs",
+              "RelativeToolTip": "Application\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T15:41:34.516Z"
+              "WhenOpened": "2026-04-07T15:56:26.855Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T15:35:22.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-07T15:34:33.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-07T15:31:04.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Program.cs",
+              "ToolTip": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T15:29:58.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MiDbcontext.cs",
-              "DocumentMoniker": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Infrastructure\\Data\\MiDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Infrastructure\\Data\\MiDbcontext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\MiDbcontext.cs",
-              "ToolTip": "C:\\Users\\Mari PC\\Desktop\\RaquelJuegoBorrar\\Proyecto-Final\\SketchMuse\\SketchMuse\\Infrastructure\\Data\\MiDbcontext.cs",
+              "ToolTip": "C:\\Users\\Raquel L A\\Documents\\GitHub\\ProyectoSketchMuse\\SketchMuse\\SketchMuse\\Infrastructure\\Data\\MiDbcontext.cs",
               "RelativeToolTip": "Infrastructure\\Data\\MiDbcontext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T15:25:58.96Z",
               "EditorCaption": ""

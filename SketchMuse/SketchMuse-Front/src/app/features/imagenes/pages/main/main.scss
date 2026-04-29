@@ -2,3 +2,72 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.configuracion-busqueda {
+    text-align: center;
+    display: flex;
+    gap: 30px;
+    margin: auto;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    flex-wrap: wrap;
+
+    .config-group {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+
+        label {
+            font-size: 14px;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 8px;
+
+            button {
+                padding: 8px 16px;
+                border: 2px solid #ddd;
+                background-color: #fff;
+                border-radius: 4px;
+                font-size: 13px;
+                font-weight: 500;
+                cursor: pointer;
+                transition: all 0.3s ease;
+
+                &:hover {
+                    border-color: #4CAF50;
+                    color: #4CAF50;
+                }
+
+                &.active {
+                    background-color: #4CAF50;
+                    border-color: #4CAF50;
+                    color: white;
+                }
+            }
+        }
+
+        input {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+            width: 150px;
+            transition: border-color 0.3s ease;
+
+            &:focus {
+                outline: none;
+                border-color: #4CAF50;
+                box-shadow: 0 0 5px rgba(76, 175, 80, 0.3);
+            }
+
+            &::placeholder {
+                color: #999;
+            }
+        }
+    }
+}

@@ -13,7 +13,9 @@ export class Buscador {
   @Output()
   buscar = new EventEmitter<string>()
 
-  onBuscar(){
-    this.buscar.emit(this.texto)
+  onBuscar() {
+    const query = this.texto.trim();
+    if (!query) return;
+    this.buscar.emit(query);
   }
 }

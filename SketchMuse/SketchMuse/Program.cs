@@ -26,12 +26,16 @@ builder.Services.AddCors(options =>
               .AllowAnyMethod()
     );
 });
-// Configura el DbContext para usar MySQL
+
+
+var connectionString = builder.Configuration["ConnectionStrings:DefaultConnection"];
+
 builder.Services.AddDbContext<MiDbcontext>(options =>
     options.UseMySql(
-        builder.Configuration.GetConnectionString("DefaultConnection"),
-        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection"))
-    ));
+        connectionString,
+        ServerVersion.AutoDetect(connectionString)
+    )
+);
 
 builder.Services.AddAuthentication("Bearer")
     .AddJwtBearer("Bearer", options =>
@@ -71,7 +75,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 app.UseCors();
 
