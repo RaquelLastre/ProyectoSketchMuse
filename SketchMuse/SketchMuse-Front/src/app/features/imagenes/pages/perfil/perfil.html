@@ -6,6 +6,17 @@
 
 <div class="albumes">
     @for (album of albumes; track album.id) {
-    <app-album [album]="album"></app-album>
+    <app-album [album]="album" (eliminar)="abrirModal($event)"></app-album>
     }
 </div>
+
+@if (mostrarModal) {
+<div class="modal-backdrop">
+    <div class="modal">
+        <p>¿Seguro que quieres eliminar este álbum?</p>
+
+        <button (click)="confirmarEliminar()" [disabled]="eliminando">Sí, eliminar</button>
+        <button (click)="cancelar()">Cancelar</button>
+    </div>
+</div>
+}

@@ -40,6 +40,7 @@ namespace SketchMuse.Infrastructure.ExternalApis
             var imagenes = new List<ImagenDTO>();
             foreach (var img in listaImagenes.EnumerateArray())
             {
+
                 //intenta obtener la propiedad link del elemento json : img, si hay es true y pone el valor en url, si no, devuelve false
                 if(img.TryGetProperty("webformatURL", out JsonElement enlace))
                 {
@@ -47,6 +48,7 @@ namespace SketchMuse.Infrastructure.ExternalApis
                     {
                         //url es un elemento json, asi que se convierte a string. Si por alguna razon no devuelve un string, no lanza excepción
                         Url = enlace.GetString() ?? "",
+                        UrlSmall = img.TryGetProperty("previewURL", out JsonElement urlSmall) ? urlSmall.GetString() : "",
                         Titulo = img.TryGetProperty("tags", out JsonElement titulo) ? titulo.GetString() : ""
                     });
                 }

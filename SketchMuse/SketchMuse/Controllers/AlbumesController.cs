@@ -41,5 +41,17 @@ namespace SketchMuse.Controllers
             var imagenes = await _albumService.GetImagenesAlbum(albumId, usuarioId);
             return Ok(imagenes);
         }
+
+        [HttpDelete("delete-album/{albumId}")]
+        [Authorize]
+        public async Task<IActionResult> EliminarAlbum(int albumId)
+        {
+            var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            if (userIdClaim == null) return Unauthorized();
+
+            int usuarioId = int.Parse(userIdClaim);
+            await _albumService.EliminarAlbum(albumId, usuarioId);
+            return Ok();
+        }
     }
 }

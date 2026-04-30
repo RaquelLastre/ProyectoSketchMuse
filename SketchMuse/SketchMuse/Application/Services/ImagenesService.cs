@@ -35,7 +35,8 @@ namespace SketchMuse.Application.Interfaces
             return imagenes.Select(i => new ImagenDTO
             {
                 Titulo = i.Titulo,
-                Url = HttpUtility.UrlDecode(i.Url)
+                Url = HttpUtility.UrlDecode(i.Url),
+                UrlSmall = HttpUtility.UrlDecode(i.UrlSmall)
             }).ToList();
         }
     }

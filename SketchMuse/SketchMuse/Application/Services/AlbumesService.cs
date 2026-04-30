@@ -26,6 +26,7 @@ namespace SketchMuse.Application.Interfaces
                 Imagenes = imagenes.Select(i => new Imagen
                 {
                     Url = i.Url,
+                    UrlSmall = i.UrlSmall,
                     Titulo = i.Titulo
                 }).ToList()
             };
@@ -73,7 +74,7 @@ namespace SketchMuse.Application.Interfaces
                     UsedAt = a.UsedAt,
                     PreviewImagenes = a.Imagenes
                         .Take(3)
-                        .Select(i => i.Url)
+                        .Select(i => i.UrlSmall)
                         .ToList()
                 })
                 .ToList();
@@ -89,6 +90,18 @@ namespace SketchMuse.Application.Interfaces
             return album.Imagenes
                 .Select(i => new ImagenDTO { Url = i.Url, Titulo = i.Titulo })
                 .ToList();
+        }
+        public async Task EliminarAlbum(int albumId, int usuarioId)
+        {
+            var album = await _context.Albumes.FirstOrDefaultAsync(a => a.Id == albumId && a.UsuarioId == usuarioId);
+
+            if (album == null){
+                 throw new Exception("Álbum no encontrado o no pertenece al usuario");
+            }
+           
+            _context.Imagenes.RemoveRange(album.Imagenes); //eliminar las imagenes de la bd 
+            _context.Albumes.Remove(album);
+            await _context.SaveChangesAsync();
         }
     }
 }

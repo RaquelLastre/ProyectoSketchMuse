@@ -2,12 +2,13 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Imagen } from '../../features/imagenes/models/imagen.model';
 import { Observable } from 'rxjs';
+import { environment } from '../../../environment';
 
 @Injectable({
   providedIn: 'root',
 })
 export class Imagenes {
-  private apiUrl = 'https://localhost:7128/api/imagenes/'
+  private apiUrl = `${environment.apiUrl}/api/imagenes/`
 
   constructor(private http: HttpClient) { }
 
@@ -16,7 +17,7 @@ export class Imagenes {
   }
   
   guardarAlbum(query: string, imagenes: Imagen[]) {
-  return this.http.post('https://localhost:7128/api/album', {
+  return this.http.post(`${environment.apiUrl}/api/album`, {
     query: query,
     imagenes: imagenes
   });

@@ -1,22 +1,21 @@
 @if (imagenes.length === 0) {
-  <p>Cargando imágenes...</p>
+<p>Cargando imágenes...</p>
 }
 
 @if (imagenActual) {
-  <div class="cronometro">
-    <div class="cronometro__barra-fondo">
-      <div class="cronometro__barra-progreso" [style.width.%]="progreso"></div>
-    </div>
-    <span class="cronometro__tiempo">{{ tiempoRestante }}s</span>
+<div class="navegacion">
+  <button (click)="anterior()" [disabled]="indiceActual === 0">‹ Anterior</button>
+  <span>{{ indiceActual + 1 }} / {{ imagenes.length }}</span>
+  <button (click)="siguiente()" [disabled]="indiceActual === imagenes.length - 1">Siguiente ›</button>
+</div>
+<div class="cronometro">
+  <div class="cronometro__barra-fondo">
+    <div class="cronometro__barra-progreso" [style.width.%]="progreso"></div>
   </div>
+  <span class="cronometro__tiempo">{{ tiempoRestante }}s</span>
+</div>
 
-  <div class="imagen-visor">
-    <img [src]="imagenActual.url" [alt]="imagenActual.titulo ?? ''" />
-  </div>
-
-  <div class="navegacion">
-    <button (click)="anterior()" [disabled]="indiceActual === 0">‹ Anterior</button>
-    <span>{{ indiceActual + 1 }} / {{ imagenes.length }}</span>
-    <button (click)="siguiente()" [disabled]="indiceActual === imagenes.length - 1">Siguiente ›</button>
-  </div>
+<div class="imagen-visor">
+  <img [src]="imagenActual.url" [alt]="imagenActual.titulo ?? ''" />
+</div>
 }

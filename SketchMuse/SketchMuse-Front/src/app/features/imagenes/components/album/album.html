@@ -1,4 +1,7 @@
 <div class="album" (click)="verDetalle()">
+    <button class="delete-btn" (click)="eliminarClick($event)">
+        🗑️
+    </button>
     <div class="imagenes">
         @for (img of album.previewImagenes; track img) {<img [src]="img" />}
     </div>

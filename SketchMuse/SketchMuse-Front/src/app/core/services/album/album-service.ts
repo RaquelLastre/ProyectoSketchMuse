@@ -1,11 +1,12 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
+import { environment } from '../../../../environment';
 
 @Injectable({
   providedIn: 'root',
 })
 export class AlbumService {
-  private apiUrl = 'https://localhost:7128/api/albumes';
+  private apiUrl = `${environment.apiUrl}/api/albumes`;
 
   constructor(private http: HttpClient) { }
 
@@ -15,4 +16,7 @@ export class AlbumService {
   getImagenesAlbum(albumId: number) {
     return this.http.get<any[]>(`${this.apiUrl}/${albumId}/imagenes`);
   }
+  eliminarAlbum(albumId: number) {
+  return this.http.delete(`${this.apiUrl}/delete-album/${albumId}`);
+}
 }

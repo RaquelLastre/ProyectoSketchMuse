@@ -44,6 +44,7 @@ namespace SketchMuse.Infrastructure.ExternalApis
                     {
                         //url es un elemento json, asi que se convierte a string. Si por alguna razon no devuelve un string, no lanza excepción
                         Url = enlace.GetString() ?? "",
+                        UrlSmall = img.TryGetProperty("small", out JsonElement urlSmall) ? urlSmall.GetString() : "",
                         Titulo = img.TryGetProperty("alt_description", out JsonElement titulo) ? titulo.GetString() : ""
                     });
                 }
