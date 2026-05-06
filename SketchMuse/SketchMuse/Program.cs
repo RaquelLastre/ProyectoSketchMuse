@@ -5,8 +5,6 @@ using SketchMuse.Infrastructure.Data;
 using SketchMuse.Infrastructure.ExternalApis;
 using System.Text;
 
-//cargar las variables de .env
-DotNetEnv.Env.Load();
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,10 +16,11 @@ builder.Services.AddSingleton<JwtService>();
 builder.Services.AddScoped<IImagenesService, ImagenesService>();
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 builder.Services.AddScoped<IAlbumesService, AlbumesService>();
+
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(policy =>
-        policy.WithOrigins("http://localhost:4200")
+        policy.AllowAnyOrigin()
               .AllowAnyHeader()
               .AllowAnyMethod()
     );

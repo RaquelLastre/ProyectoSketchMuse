@@ -5,18 +5,68 @@
 }
 
 <div class="albumes">
-    @for (album of albumes; track album.id) {
-    <app-album [album]="album" (eliminar)="abrirModal($event)"></app-album>
-    }
+  @for (album of albumes; track album.id) {
+  <app-album [album]="album" (eliminar)="abrirModal($event)" (abrirConfiguracion)="abrirModalConfig($event)">
+  </app-album>
+  }
 </div>
 
 @if (mostrarModal) {
 <div class="modal-backdrop">
-    <div class="modal">
-        <p>¿Seguro que quieres eliminar este álbum?</p>
+  <div class="modal">
+    <p>¿Seguro que quieres eliminar este álbum?</p>
 
-        <button (click)="confirmarEliminar()" [disabled]="eliminando">Sí, eliminar</button>
-        <button (click)="cancelar()">Cancelar</button>
+    <button (click)="confirmarEliminar()" [disabled]="eliminando">Sí, eliminar</button>
+    <button (click)="cancelar()">Cancelar</button>
+  </div>
+</div>
+}
+
+@if (mostrarModalConfig) {
+<div class="modal-backdrop">
+  <div class="modal">
+
+    <h3>Configurar reproducción</h3>
+
+    <div class="config-group">
+      <label>Tiempo por foto (s):</label>
+
+      <div class="button-group">
+        <button (click)="tiempoPorFoto = 10">10s</button>
+        <button (click)="tiempoPorFoto = 30">30s</button>
+        <button (click)="tiempoPorFoto = 60">60s</button>
+      </div>
+
+      <input type="number" [(ngModel)]="tiempoPorFoto" min="1" />
     </div>
+
+    <div class="config-group">
+      <label>Número de fotos:</label>
+
+      <div class="button-group">
+        <button (click)="numFotos = 10">10</button>
+        <button (click)="numFotos = 20">20</button>
+        <button (click)="numFotos = 30">30</button>
+      </div>
+
+      <input type="number" [(ngModel)]="numFotos" min="1" />
+    </div>
+
+    <div class="config-group">
+      <label>Modo de carga:</label>
+      <div class="button-group">
+        <button (click)="soloNuevas = false" [class.active]="!soloNuevas">
+          Todas
+        </button>
+        <button (click)="soloNuevas = true" [class.active]="soloNuevas">
+          Solo nuevas
+        </button>
+      </div>
+    </div>
+
+    <button (click)="confirmarConfig()">Empezar</button>
+    <button (click)="cancelarConfig()">Cancelar</button>
+
+  </div>
 </div>
 }

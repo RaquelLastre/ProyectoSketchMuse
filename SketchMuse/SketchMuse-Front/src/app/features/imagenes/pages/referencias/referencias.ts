@@ -23,17 +23,19 @@ export class Referencias implements OnInit, OnDestroy {
     private albumService: AlbumService,
     private cdr: ChangeDetectorRef,
     private imagenesService: Imagenes
-  ) {}
+  ) { }
 
   ngOnInit() {
     const albumId = Number(this.route.snapshot.paramMap.get('id'));
     const query = this.route.snapshot.paramMap.get('query');
     const count = Number(this.route.snapshot.queryParamMap.get('count')) || 10;
+    const soloNuevas = this.route.snapshot.queryParamMap.get('soloNuevas') === 'true';
     this.tiempoPorFoto = Number(this.route.snapshot.queryParamMap.get('tiempo')) || 10;
 
-    if (albumId) {
-      this.albumService.getImagenesAlbum(albumId).subscribe({
+    if (!isNaN(albumId) && albumId > 0) {
+      this.albumService.getImagenesAlbum(albumId, count, soloNuevas).subscribe({
         next: data => {
+          console.log(data);
           this.imagenes = data;
           this.iniciarCronometro();
           this.cdr.detectChanges();
@@ -43,6 +45,7 @@ export class Referencias implements OnInit, OnDestroy {
     } else if (query) {
       this.imagenesService.buscarImagenes(query, count).subscribe({
         next: data => {
+          console.log(data);
           this.imagenes = data;
           this.iniciarCronometro();
           this.cdr.detectChanges();
@@ -50,6 +53,7 @@ export class Referencias implements OnInit, OnDestroy {
         error: err => console.error(err)
       });
     }
+    
   }
 
   ngOnDestroy() {

@@ -16,6 +16,6 @@
 </div>
 
 <div class="imagen-visor">
-  <img [src]="imagenActual.url" [alt]="imagenActual.titulo ?? ''" />
+  <img [src]="imagenActual.url ?? imagenActual.urlSmall" [alt]="imagenActual.titulo ?? ''" />
 </div>
 }

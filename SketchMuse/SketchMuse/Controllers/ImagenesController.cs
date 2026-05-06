@@ -48,12 +48,12 @@ namespace SketchMuse.Controllers
 
         [HttpPost("{albumId}/agregar")]
         [Authorize]
-        public async Task<IActionResult> AgregarAAlbum(int albumId, [FromQuery] int count = 10)
+        public async Task<IActionResult> AgregarAlbum(int albumId, [FromQuery] int count = 10)
         {
             var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
             if (userIdClaim == null) return Unauthorized();
 
-            await _albumService.AgregarAAlbum(albumId, int.Parse(userIdClaim), count);
+            await _albumService.AgregarAlbum(albumId, int.Parse(userIdClaim), count);
             return Ok();
         }
     }

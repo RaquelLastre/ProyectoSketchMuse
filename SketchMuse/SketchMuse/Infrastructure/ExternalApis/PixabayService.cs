@@ -16,12 +16,12 @@ namespace SketchMuse.Infrastructure.ExternalApis
         }
 
         //async Task indica que es asincrono y el hilo no se queda bloqueado si la respuesta tarda unos segundos, puede seguir procesando peticiones
-        public async Task<List<ImagenDTO>> LlamadaApiPixabay(string textoBusqueda, int numImagenes)
+        public async Task<List<ImagenDTO>> LlamadaApiPixabay(string textoBusqueda, int numImagenes, int offset = 0)
         {
             var apiKey = _config["PixabayApi:ApiKey"];
-            //convierte caracteres como espacios en algo que la url interprete correctamente
-            string busquedaSinEspacios = Uri.EscapeDataString(textoBusqueda);
-            var url = $"https://pixabay.com/api/?key={apiKey}&q={busquedaSinEspacios}&per_page={numImagenes}";
+    string busquedaSinEspacios = Uri.EscapeDataString(textoBusqueda);
+    int page = (offset / numImagenes) + 1;
+    var url = $"https://pixabay.com/api/?key={apiKey}&q={busquedaSinEspacios}&per_page={numImagenes}&page={page}";
 
             var response = await _httpClient.GetAsync(url);
             //comprueba que la respuesta sea 200-299 y si no lo es lanza una excepción

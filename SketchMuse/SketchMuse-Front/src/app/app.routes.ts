@@ -18,11 +18,11 @@ export const routes: Routes = [
     canActivate: [authGuard]
   },
   {
-    path: 'references',
+    path: 'references/:query',
     component: Referencias
   },
   {
-    path: 'references/:query',
+    path: 'references',
     component: Referencias
   },
   {

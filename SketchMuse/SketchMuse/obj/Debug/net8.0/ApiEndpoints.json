@@ -80,7 +80,7 @@
   },
   {
     "ContainingType": "SketchMuse.Controllers.ImagenesController",
-    "Method": "AgregarAAlbum",
+    "Method": "AgregarAlbum",
     "RelativePath": "api/imagenes/{albumId}/agregar",
     "HttpMethod": "POST",
     "IsController": true,

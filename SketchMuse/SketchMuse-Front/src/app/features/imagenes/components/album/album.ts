@@ -10,14 +10,17 @@ import { Router } from '@angular/router';
 })
 export class Album {
   @Input() album: any;
-  @Output() eliminar = new EventEmitter<number>(); 
+  @Output() eliminar = new EventEmitter<number>();
 
-  constructor(private router: Router) {}
+  constructor(private router: Router) { }
+
+  @Output() abrirConfiguracion = new EventEmitter<number>();
 
   verDetalle() {
-    this.router.navigate(['/album', this.album.id]);
+    this.abrirConfiguracion.emit(this.album.id);
   }
-   eliminarClick(event: Event) {
+
+  eliminarClick(event: Event) {
     event.stopPropagation(); // evita que navegue al clicar en el botón de eliminar
     this.eliminar.emit(this.album.id);
   }

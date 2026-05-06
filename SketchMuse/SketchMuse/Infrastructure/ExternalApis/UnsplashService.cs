@@ -14,11 +14,12 @@ namespace SketchMuse.Infrastructure.ExternalApis
             _config = config;
         }
 
-        public async Task<List<ImagenDTO>> LlamadaApiUnsplash(string textoBusqueda, int numImagenes)
+        public async Task<List<ImagenDTO>> LlamadaApiUnsplash(string textoBusqueda, int numImagenes, int offset = 0)
         {
             var apiKey = _config["UnsplashApi:ApiKey"];
-            string busquedaSinEspacios = Uri.EscapeDataString(textoBusqueda);
-            var url = $"https://api.unsplash.com/search/photos?query={busquedaSinEspacios}&per_page={numImagenes}&client_id={apiKey}";
+    string busquedaSinEspacios = Uri.EscapeDataString(textoBusqueda);
+    int page = (offset / numImagenes) + 1; // calcular página según offset
+    var url = $"https://api.unsplash.com/search/photos?query={busquedaSinEspacios}&per_page={numImagenes}&page={page}&client_id={apiKey}";
 
             var response = await _httpClient.GetAsync(url);
             //comprueba que la respuesta sea 200-299 y si no lo es lanza una excepción

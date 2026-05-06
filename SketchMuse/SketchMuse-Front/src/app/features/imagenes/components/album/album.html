@@ -1,11 +1,38 @@
 <div class="album" (click)="verDetalle()">
-    <button class="delete-btn" (click)="eliminarClick($event)">
+    <!-- Icono clicable en esquina superior derecha -->
+    <button class="icon-button" (click)="eliminarClick($event)">
         🗑️
     </button>
-    <div class="imagenes">
-        @for (img of album.previewImagenes; track img) {<img [src]="img" />}
-    </div>
 
-    <h2>{{ album.titulo }}</h2>
-    <p>{{ album.usedAt | date:'dd MMM yyyy' }}</p>
+    <div class="container">
+        <!-- Primer apartado: Imágenes -->
+        <div class="section-images">
+            <!-- Mitad superior: 1 foto grande -->
+            <div class="half-top">
+                @if (album.previewImagenes[0]) {
+                    <img [src]="album.previewImagenes[0]" alt="preview 1" />
+                }
+            </div>
+
+            <!-- Mitad inferior: 2 fotos divididas verticalmente -->
+            <div class="half-bottom">
+                <div class="small-image">
+                    @if (album.previewImagenes[1]) {
+                        <img [src]="album.previewImagenes[1]" alt="preview 2" />
+                    }
+                </div>
+                <div class="small-image">
+                    @if (album.previewImagenes[2]) {
+                        <img [src]="album.previewImagenes[2]" alt="preview 3" />
+                    }
+                </div>
+            </div>
+        </div>
+
+        <!-- Segundo apartado: Información -->
+        <div class="section-info">
+            <h1>{{ album.titulo }}</h1>
+            <p>{{ album.usedAt | date:'dd MMM yyyy' }}</p>
+        </div>
+    </div>
 </div>
